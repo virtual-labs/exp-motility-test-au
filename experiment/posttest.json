@@ -3,12 +3,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The medium commonly employed for lecithinase test is",
+      "question": "1. The movement of bacteria towards nutrients is known as",
       "answers": {
-        "a": "Egg yolk agar",
-        "b": "Nutrient agar",
-        "c": "Mannitol salt agar",
-        "d": "Mac Conkey agar"
+        "a": "Chemotaxis",
+        "b": "Phototaxis",
+        "c": "Thermotaxis",
+        "d": "All the above"
       },
  
       "correctAnswer": "a",
@@ -17,12 +17,12 @@
 
 
     {
-      "question": "2. Importance of Lecithinase test is",
+      "question": "2. The end products of tryptophan hydrolysis are:",
       "answers": {
-        "a": "Differentiate between Staphylococcus aureus and Escherichia coli",
-        "b": "Determine the ability of microorganisms to produce Lecithinase.",
-        "c": "Identify bacteria which are capable of producing endoenzymes.",
-        "d": "Both b and c"
+        "a": "Urea, carbon dioxide, and water",
+        "b": "Indole, pyruvic acid, and ammonia",
+        "c": "Butyric acid, indole, and water",
+        "d": "Lactic acid, butyric acid, and pyruvic acid"
       },
       
       "correctAnswer": "b",
@@ -31,15 +31,15 @@
 
     
     {
-      "question": "3. The lipoprotein component of egg yolk agar is",
+      "question": "3. Which of the following methods is used to determine bacterial motility?",
       "answers": {
-        "a": "Lecithovitellin",
-        "b": "Diglycerides",
-        "c": "Phosphorylcholine",
-        "d": "Albumin"
+        "a": "Hanging drop method",
+        "b": "Agar stabbing method",
+        "c": "Both A and B",
+        "d": "None of the above"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
