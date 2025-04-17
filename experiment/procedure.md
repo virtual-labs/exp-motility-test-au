@@ -76,3 +76,23 @@ Motility is observed in case of Proteus vulgaris , while Micrococcus luteus is n
 #### Expected Results:
 Actively motile organisms (Pseudomonas aeruginosa) were observed
 
+&nbsp;
+
+## 3.Soft Agar Stabbing (Tube Method)
+ 
+### Materials Required:
+1. Two test tubes with SIM medium
+2. Inoculating needle
+3. Cultures:- Nutrient broth cultures of Klebsiella pneumoniae and Proteus vulgaris (young cultures)
+ 
+### Procedure:
+1. Label the tubes of semisolid (or SIM) media with the names of the organisms.
+2. Flame and cool the inoculating needle, and insert it into the culture after flaming the neck of the tube.
+3. Remove the cap from the tube of medium, flame the neck, and stab it 2⁄3 of the way down to the bottom. Flame the neck of the tube again before returning the cap to the tube.
+4. Incubate the tubes at room temperature for 24 to 48 hours.
+5. Examine the SIM cultures for the presence or absence of a black precipitate along the line of the stab inoculation. A black precipitate of FeS indicates the presence of H2S.
+6. If desired, one can also test for indole production by adding 5 drops of Kovacs’ reagent to the SIM cultures and looking for the development of a red color at the top.
+
+### Expected Results:
+In agar stab method Proteus vulgaris showed a well dispersed growth from the line of inoculation which is evident of motility, presence of black precipitate indicates that H2S is produced and presence of red colouration in the medium after the addition of Kovac’s reagent indicates positive indole test while Klebsiella pneumoniae is non motile and negative for H2S production and indole test .
+
