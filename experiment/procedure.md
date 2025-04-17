@@ -96,3 +96,4 @@ Actively motile organisms (Pseudomonas aeruginosa) were observed
 ### Expected Results:
 In agar stab method Proteus vulgaris showed a well dispersed growth from the line of inoculation which is evident of motility, presence of black precipitate indicates that H2S is produced and presence of red colouration in the medium after the addition of Kovac’s reagent indicates positive indole test while Klebsiella pneumoniae is non motile and negative for H2S production and indole test .
 
+<img src="images/1.jpg" title="" />
