@@ -3,26 +3,26 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. The medium commonly employed for lecithinase test is",
+      "question": "1. The erratic motion of non-motile bacteria in an aqueous medium is due to--",
       "answers": {
-        "a": "Egg yolk agar",
-        "b": "Nutrient agar",
-        "c": "Mannitol salt agar",
-        "d": "Mac Conkey agar"
+        "a": "Gliding movement",
+        "b": "Turbulence",
+        "c": "Brownian movement",
+        "d": "None of the above"
       },
  
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },   
 
 
     {
-      "question": "2. Importance of Lecithinase test is",
+      "question": "2. The term 'Peritrichous flagella' means",
       "answers": {
-        "a": "Differentiate between Staphylococcus aureus and Escherichia coli",
-        "b": "Determine the ability of microorganisms to produce Lecithinase.",
-        "c": "Identify bacteria which are capable of producing endoenzymes.",
-        "d": "Both b and c"
+        "a": "Single flagella",
+        "b": "Flagella all around the body",
+        "c": "Flagella on one end",
+        "d": "Short flagella"
       },
       
       "correctAnswer": "b",
@@ -31,15 +31,15 @@
 
     
     {
-      "question": "3. The lipoprotein component of egg yolk agar is",
+      "question": "3. The red colouration of medium by the addition of KovacÃ¢â‚¬â„¢s reagent is due to the action of the enzyme____________ on ______",
       "answers": {
-        "a": "Lecithovitellin",
-        "b": "Diglycerides",
-        "c": "Phosphorylcholine",
-        "d": "Albumin"
+        "a": "Cysteine desulfurase , cysteine",
+        "b": "Citrase, citrate",
+        "c": "Lysine decarboxylase, lysine",
+        "d": "Tryptophanase, tryptophan"
       },
      
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
