@@ -48,3 +48,31 @@
 #### Expected Results:
 Motility is observed in case of Proteus vulgaris , while Micrococcus luteus is non motile
 
+
+&nbsp;
+
+## 2. Hanging Drop Slide
+ 
+### Materials Required :
+1. Clean depression slides and coverslips
+2. Petroleum jelly / Vaseline
+3. Inoculating loop
+4. Toothpicks
+5. Cultures:- 24- to 48-hour Nutrient broth cultures of Pseudomonas aeruginosa
+ 
+### Procedure:
+1. With a toothpick, spread Vaseline or Petroleum jelly on the four corner of a clean coverslip.
+2. After thoroughly mixing one of the cultures, use the inoculating loop to aseptically place a small drop of the bacterial suspension in the center of a coverslip
+3. Lower the depression slide, with the concavity facing down, onto the coverslip so that the drop protrudes into the center of the concavity of the slide. Press gently to form a seal.
+4. Turn the hanging drop slide over and place on the stage of the microscope so that the drop is over the light hole. Examine the drop by first locating its edge under low power and focusing on the drop. Switch to the high-dry objective (40 x). To increase the contrast and to see the bacteria clearly, close the diaphragm as much as possible.
+5. Distinguish between actual motility and Brownian movement
+6. Discard the coverslips and any contaminated slides in a container with disinfectant solution.
+
+#### Hints:
+1. Always examine a hanging drop preparation immediately, because the organisms become less motile with time.
+2. Particular care must be taken to avoid breaking the coverslip since it is more vulnerable when supported only around its edges
+3. Always make sure the specimen is on the top side of the slide.
+ 
+#### Expected Results:
+Actively motile organisms (Pseudomonas aeruginosa) were observed
+
