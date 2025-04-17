@@ -1,0 +1,47 @@
+
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. The movement of bacteria towards nutrients is known as",
+      "answers": {
+        "a": "Chemotaxis",
+        "b": "Phototaxis",
+        "c": "Thermotaxis",
+        "d": "All the above"
+      },
+ 
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },   
+
+
+    {
+      "question": "2. The end products of tryptophan hydrolysis are:",
+      "answers": {
+        "a": "Urea, carbon dioxide, and water",
+        "b": "Indole, pyruvic acid, and ammonia",
+        "c": "Butyric acid, indole, and water",
+        "d": "Lactic acid, butyric acid, and pyruvic acid"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+
+    
+    {
+      "question": "3. Which of the following methods is used to determine bacterial motility?",
+      "answers": {
+        "a": "Hanging drop method",
+        "b": "Agar stabbing method",
+        "c": "Both A and B",
+        "d": "None of the above"
+      },
+     
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }
+  ]
+}	 
+	 
