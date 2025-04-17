@@ -97,3 +97,30 @@ Actively motile organisms (Pseudomonas aeruginosa) were observed
 In agar stab method Proteus vulgaris showed a well dispersed growth from the line of inoculation which is evident of motility, presence of black precipitate indicates that H2S is produced and presence of red colouration in the medium after the addition of Kovac’s reagent indicates positive indole test while Klebsiella pneumoniae is non motile and negative for H2S production and indole test .
 
 <img src="images/1.jpg" title="" />
+
+&nbsp;
+
+### Differences Encountered in a Real Laboratory
+ 
+In an actual laboratory setting, there are certain important steps that are not necessarily applicable in a virtual lab:
+
+1. Always wear gloves, and lab coat.
+2. Tie your hair properly to prevent any contamination from the culture you are working with.
+3. When you enter the lab switch on the exhaust fans.
+4. Make sure that the microscope is working properly. Oculars and objective lenses should be cleaned before and after each use with lens paper.
+5. Adjust the illumination before using the microscope.
+6. Switch on the lights of the laminar air flow and blower. Prepare your work space (Laminar Air Flow Cabinet) or lab bench by wiping down the area with disinfectant.
+7. Properly adjust the flame of the Bunsen burner. The proper flame is a small blue cone; it is not a large plume, nor is it orange.
+8. Always label all tubes and plates with:               
+
+I. The type of media
+
+II. Your initials
+
+III. The date
+
+9.	While flaming the inoculation loop be sure that each segment of metal glows orange/red-hot before you move the next segment into the flame.
+10.	Once you have flamed your loop, do not lay it down, blow on it, touch it with your fingers, or touch it to any surface other than your inoculums. If you do touch the tip to another surface or blow on it, you will have to re-flame the loop before you proceed to your experiment.
+11.	Allow your loop to cool before you try to pick up your organism to avoid killing the inoculum.
+12.	When removing the caps from tubes, always keep the caps in your hand.  Never set them on the table, as they could pick up contaminants.
+
